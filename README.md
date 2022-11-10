@@ -34,5 +34,6 @@ Project us created with :
 I need to add a script to automatically install the needed packages and to run the project. The purpose of this project it to analysis the data with a text analysis like sentimental anlysis and take only the better daily horoscope.
 
 
+This project is linked to the MAGIC 8 BALL project on my GitHub.
 
 
